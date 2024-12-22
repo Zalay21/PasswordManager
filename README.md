@@ -82,6 +82,3 @@ Contributions
 
     Contributions are welcome! Feel free to submit a pull request or raise an issue on the repository.
 
-License
-
-    This project is licensed under the MIT License. See the LICENSE file for details.
