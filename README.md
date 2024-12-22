@@ -21,7 +21,7 @@ A secure, user-friendly password manager built with Python and Tkinter. This app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/PasswordManager.git
+   git clone https://github.com/Zalay21/PasswordManager.git
    cd PasswordManager
 
 2. Install the required Python modules:
