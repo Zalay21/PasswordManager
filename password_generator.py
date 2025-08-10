@@ -159,6 +159,7 @@ def login_register_gui():
         password_manager(username, encryption_key)
 
     def register():
+    
         username = entryName.get().strip()
         master_password = entryPassword.get().strip()
 
