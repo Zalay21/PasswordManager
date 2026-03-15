@@ -1,0 +1,11 @@
+# User credential stores (contains encryption keys and encrypted passwords)
+user_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
